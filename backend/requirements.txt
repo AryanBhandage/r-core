@@ -1,0 +1,12 @@
+# ReqCore AI Lab — Python backend dependencies
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+pydantic>=2.6
+scikit-learn>=1.4
+xgboost>=2.0
+numpy>=1.26
+pdfminer.six>=20231228
+python-docx>=1.1
+google-generativeai>=0.7
+python-dotenv>=1.0
